@@ -5,9 +5,9 @@
 * step 2:
 
 	Download the file in your computer(OS:Linux).
-	Type `g++ -o a ROBDD.cpp` in your CMD.
+	Type `g++ -o a source.cpp` in your CMD.
 	
-	#Remember you need to use cd change your directory where ROBDD.cpp is.
+	Remember you need to use cd change your directory where source.cpp is.
 * step 3:
 
 	Type `./a input.pla output.dot` to execute the program.
