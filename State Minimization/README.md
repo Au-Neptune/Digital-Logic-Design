@@ -15,3 +15,6 @@
 * step 4:
 
 	Type `dot -T png output.dot > output.png` to get the PNG file.
+
+---
+![image](https://github.com/Au-Neptune/Digital-Logic-Design/blob/main/State%20Minimization/idea.png)
